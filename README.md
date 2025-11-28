@@ -1,6 +1,7 @@
 The attached codes are used in the paper published below.
 
 Russell Sadeghi, Saeid Sadeghi, Masoud Rabbani
+
 A sourcing–inventory model with flexible production for sustainable supply chains: machine learning and relational view theory
 
 INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE: OPERATIONS & LOGISTICS, 2025
